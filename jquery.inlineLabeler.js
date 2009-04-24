@@ -1,8 +1,8 @@
 /*  -------------------------------------------------------------------
 **  inlineLabeler
 **  -------------------------------------------------------------------
-**  @ver             0.1
-**  @author        Brendan Abbott (brendan@bloodbone.ws)
+**  @ver            0.1
+**  @author       Brendan Abbott (brendan@bloodbone.ws)
 **  -------------------------------------------------------------------
 **  Inserts a chosen selector as the default value of an input
 **  element. The value hides on focus and if no text is entered,
